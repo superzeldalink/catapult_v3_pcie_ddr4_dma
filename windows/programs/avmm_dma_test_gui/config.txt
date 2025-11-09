@@ -1,0 +1,3 @@
+Write DMA Descriptor Offset = 	0x80002000
+Read DMA Descriptor Offset = 	0x80000000
+sim = enable
